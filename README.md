@@ -1,7 +1,7 @@
 # Scrollbar Remover Extension
 Repository for my Scrollbar Remover Extension ( Chrome / Chromium )
 
-This little extension ( script ) was created by me to remove the ugly scroll bar from the side of the Chrome/Chromium Browser. This extension only hides de scrollbar, you will still be able to do everything else.
+This little extension ( script ) was created by me to remove the ugly scrollbar from the side of the Chrome/Chromium Browser. This extension only hides de scrollbar, you will still be able to do everything else.
 
 ## How to Install 
 
